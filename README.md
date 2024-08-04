@@ -1,2 +1,2 @@
 # Java
-Recopilación de códigos for programming in Java.
+Compilation of codes for programming in Java.
