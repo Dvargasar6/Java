@@ -1,2 +1,2 @@
-# Java-Basico
-Recopilación de códigos básicos para Java
+# Java
+Recopilación de códigos for programming in Java.
